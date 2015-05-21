@@ -1,5 +1,7 @@
 # JSTS + npm + browserify bug
 
+**Resolved with javascript.util@0.12.12**
+
 jsts >0.14.0
 
 Reproduce steps:
